@@ -1,16 +1,21 @@
-## Hi there 👋
+# Camile Frihed
 
-<!--
-**camilefrihed/camilefrihed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer since 2017  
+Creative Technologist | 3D & VFX | Cybersecurity Student
 
-Here are some ideas to get you started:
+I build digital products end-to-end combining software engineering and creative production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+JavaScript • Python • Java • C#  
+React • Node.js • APIs • Databases • 3D pipelines
+
+## Currently Building
+🚀 Nebula Stream — Streaming platform concept  
+🏙 Smart City Dashboard — Data + 3D visualization  
+🎧 Mood Music App — Interactive creative web app  
+🔐 Cybersecurity Labs — Learning & practice repository
+
+## Links
+Portfolio (coming soon)  
+ArtStation (coming soon)  
+LinkedIn (coming soon)
